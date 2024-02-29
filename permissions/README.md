@@ -29,4 +29,7 @@ This script sets the permissions to the file `hello`as follows:
 -Other users: all the permissions
 
 #John Doe Permissions Script
-The script sets the mode of the file `hello`to `-rwxr-x-wx`
+The script sets the mode of the file `hello`to 9`-rwxr-x-wx`
+
+# Mirror Permissions Script
+This script sets the mode of the file `hello` the same as the mode of the file `olleh`
