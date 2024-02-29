@@ -33,3 +33,6 @@ The script sets the mode of the file `hello`to 9`-rwxr-x-wx`
 
 # Mirror Permissions Script
 This script sets the mode of the file `hello` the same as the mode of the file `olleh`
+
+#Directory Permissions Script
+This script adds execute permission to all subdirectories of the current directory for the owner, the group owner, and all other users. Regular files are not changed.
