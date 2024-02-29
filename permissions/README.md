@@ -45,4 +45,7 @@ This script changes the group owner of the file `hello` to `school`.
 
 # Change Owner and Group Script
 This script changes the owner to `vincent` and the group owner to `staff` for all files and directories in the working directory.
+
+# Symbolic Link Permissions Script
+This script changes the owner to `vincent` and the group owner to `staff` for the symbolic link `_hello`.
  
