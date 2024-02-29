@@ -18,3 +18,6 @@ This script adds execute permission to the owner of the file `hello`
 
 # Multiple Permissions Script
 The script adds execute permission to the owner, the group owner, and read permission to other users, to the file `hello`
+
+#Everybody Execution Script
+This script adds execution permission to the owner, the group owner, and other users, to the file `hello`
