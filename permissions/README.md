@@ -38,4 +38,8 @@ This script sets the mode of the file `hello` the same as the mode of the file `
 This script adds execute permission to all subdirectories of the current directory for the owner, the group owner, and all other users. Regular files are not changed.
 
 # Directory Creation Script
-This script creates a directory called `my_dir` with permission `751` in the working directory. 
+This script creates a directory called `my_dir` with permission `751` in the working directory.
+
+# Change Group Script
+
+This script changes the group owner of the file `hello` to `school`. 
