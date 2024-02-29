@@ -12,3 +12,6 @@ This script changes the owner of the file `hello` to the user `betty`
 
 # Create Empty File
 This script creates an empty file called `hello`
+
+# Execute Permission Script
+This script adds execute permission to the owner of the file `hello`
