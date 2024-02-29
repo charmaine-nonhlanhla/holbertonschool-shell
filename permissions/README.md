@@ -21,3 +21,9 @@ The script adds execute permission to the owner, the group owner, and read permi
 
 #Everybody Execution Script
 This script adds execution permission to the owner, the group owner, and other users, to the file `hello`
+
+#James Bond Permissions Script
+This script sets the permissions to the file `hello`as follows:
+-Owner: no permission at all
+-Group: no permission at all
+-Other users: all the permissions
