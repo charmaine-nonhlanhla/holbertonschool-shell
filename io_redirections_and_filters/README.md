@@ -3,3 +3,7 @@ The `hello_world.sh` script is a simple Bash script that prints "Hello, World" f
 
 # Confused Smiley
 This script prints and displays a confused smiley to the terminal.
+
+#Display file.
+This script displays the file /etc/passwd
+
